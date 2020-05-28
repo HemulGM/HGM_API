@@ -1,0 +1,1439 @@
+[26-Mar-2020 12:18:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:18:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:18:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:19:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:19:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:19:02 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:19:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:19:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:20:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:20:40 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:20:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:21:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:21:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:21:40 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:22:17 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:23:08 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:23:12 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:23:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:24:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:25:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:25:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:33:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:36:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:36:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:36:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 15
+[26-Mar-2020 12:54:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 11
+[26-Mar-2020 12:55:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError\TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 11
+[26-Mar-2020 12:56:05 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/auth.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/auth.php on line 11
+[26-Mar-2020 13:24:27 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(19): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:24:28 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(19): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:24:58 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:24:59 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:25:14 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:25:15 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/routing.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/routing.php on line 173
+[26-Mar-2020 13:26:32 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:32 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:33 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:34 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:35 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:36 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:36 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:26:42 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\MainController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:29:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'HGM_API\Controllers\TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:19
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(179): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 19
+[26-Mar-2020 13:36:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'TError' not found in /var/home/h40664/public_html/api.hgmdev.ru/index.php:23
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(161): call_user_func_array(Object(Closure), Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(24): HGM_API\Router->executeHandler(Object(Closure))
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/index.php on line 23
+[26-Mar-2020 13:43:35 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\UsersController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:43:44 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\UsersController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:44:00 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\UsersController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[26-Mar-2020 13:44:01 Europe/Moscow] PHP Fatal error:  Uncaught RuntimeException: Controller class 'HGM_API\Controllers\UsersController' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:173
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(18): HGM_API\Router->executeHandler('HGM_API\\Control...', Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 173
+[27-Mar-2020 05:23:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:23:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:23:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:23:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:12 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:28 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:104
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 104
+[27-Mar-2020 05:24:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:24:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:25:02 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:25:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:25:17 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:25:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:25:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:26:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:26:24 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:26:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:27:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:27:13 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:27:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:27:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:27:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:102
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 102
+[27-Mar-2020 05:28:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function HGM_API\array_key_first() in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:103
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(8): HGM_API\Router->add(Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 103
+[27-Mar-2020 05:30:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:145
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 145
+[27-Mar-2020 05:31:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:146
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 146
+[27-Mar-2020 05:31:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:146
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 146
+[27-Mar-2020 05:31:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:147
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 147
+[27-Mar-2020 05:32:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:147
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 147
+[27-Mar-2020 05:32:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:147
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 147
+[27-Mar-2020 05:37:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:149
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 149
+[27-Mar-2020 05:37:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:149
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 149
+[27-Mar-2020 05:38:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:149
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 149
+[27-Mar-2020 05:38:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:149
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 149
+[27-Mar-2020 05:39:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:39:28 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:39:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:39:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:39:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:148
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(26): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 148
+[27-Mar-2020 05:40:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:148
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 148
+[27-Mar-2020 05:40:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'HGM_API\Auth' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:157
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler(Array, Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 157
+[27-Mar-2020 05:40:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'HGM_API\Auth' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:157
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler(Array, Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 157
+[27-Mar-2020 05:40:40 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'HGM_API\Auth' not found in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:157
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(17): HGM_API\Router->executeHandler(Array, Array)
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 157
+[27-Mar-2020 05:41:05 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:148
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 148
+[27-Mar-2020 05:41:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:41:23 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:41:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:41:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:41:37 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:41:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:42:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:43:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:43:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 05:44:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(23): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:19:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:20:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:20:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:20:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:32:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:32:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:32:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:32:14 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:32:17 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 06:36:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:01:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:16:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:16:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:17:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:18:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:19:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(22): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:24:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(16): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:25:17 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:25:17 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:25:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:25:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:25:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:25:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:25:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:25:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:26:58 Europe/Moscow] PHP Notice:  Undefined variable: token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:26:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:19
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Auth.php(9): DB::query('select * from t...')
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 19
+[27-Mar-2020 07:26:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:26:59 Europe/Moscow] PHP Notice:  Undefined variable: token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 07:26:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:19
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Auth.php(9): DB::query('select * from t...')
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 19
+[27-Mar-2020 07:27:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:27:12 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:19
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Auth.php(11): DB::query('select * from t...')
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 19
+[27-Mar-2020 07:27:12 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:27:43 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 07:27:43 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 17
+[27-Mar-2020 07:27:43 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/DB.php:26) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 07:27:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:28:58 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 07:28:58 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 17
+[27-Mar-2020 07:28:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/DB.php:26) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 07:28:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:32:44 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 07:32:44 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 18
+[27-Mar-2020 07:32:44 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:15) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 07:32:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 07:32:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:15) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 43
+[27-Mar-2020 07:32:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:09:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:15) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 43
+[27-Mar-2020 09:09:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:14:09 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 09:14:09 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 17
+[27-Mar-2020 09:14:09 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/DB.php:26) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:14:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:15:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:44:39 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:44:51 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:44:53 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:45:17 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:45:18 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:45:18 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:47:03 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:47:29 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:49:54 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:50:39 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:50:44 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:50:48 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:51:00 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:56:45 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:57:04 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 09:57:13 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:57:13 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:57:13 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:57:54 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:57:54 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:57:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:57:56 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:57:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:57:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:58:12 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:58:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:58:12 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:58:18 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:58:18 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:58:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:58:19 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 09:58:19 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 09:58:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 09:58:24 Europe/Moscow] PHP Fatal error:  Cannot declare class HGM_API\Controllers\User, because the name is already in use in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 17
+[27-Mar-2020 10:02:33 Europe/Moscow] PHP Notice:  Undefined index: access_token in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 9
+[27-Mar-2020 10:02:33 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:9) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 10:02:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:02:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:22
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(44): DB::query('SELECT * FROM `...')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 22
+[27-Mar-2020 10:02:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:05:37 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:22
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(44): DB::query('SELECT * FROM `...')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 22
+[27-Mar-2020 10:05:37 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:05:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:22
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(44): DB::query('SELECT * FROM `...')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 22
+[27-Mar-2020 10:05:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:06:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:22
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(44): DB::query('SELECT * FROM `...')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 22
+[27-Mar-2020 10:06:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:06:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /var/home/h40664/public_html/api.hgmdev.ru/DB.php:22
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(44): DB::query('SELECT * FROM `...')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 22
+[27-Mar-2020 10:06:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:10:03 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 10:10:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:52
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:10:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:10:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:11:19 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:45) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 54
+[27-Mar-2020 10:11:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:12:02 Europe/Moscow] PHP Notice:  Undefined index: login in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 50
+[27-Mar-2020 10:12:02 Europe/Moscow] PHP Notice:  Undefined index: name in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 51
+[27-Mar-2020 10:12:02 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:52
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:12:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:12:03 Europe/Moscow] PHP Notice:  Undefined index: login in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 50
+[27-Mar-2020 10:12:03 Europe/Moscow] PHP Notice:  Undefined index: name in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 51
+[27-Mar-2020 10:12:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:52
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:12:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:12:20 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:52
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:12:21 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:12:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:52
+Stack trace:
+#0 [internal function]: HGM_API\Controllers\MainController::auth()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#2 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#3 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:12:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:13:06 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:33
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(48): HGM_API\Controllers\MainController::setUser(Array)
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 33
+[27-Mar-2020 10:13:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:13:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:33
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(48): HGM_API\Controllers\MainController::setUser(Array)
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 33
+[27-Mar-2020 10:13:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:13:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Access to undeclared static property: HGM_API\Controllers\MainController::$user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:33
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(48): HGM_API\Controllers\MainController::setUser(Array)
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 33
+[27-Mar-2020 10:13:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:14:08 Europe/Moscow] PHP Fatal error:  Uncaught Exception: DateInterval::__construct(): Unknown or bad format (D2) in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:51
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php(51): DateInterval->__construct('D2')
+#1 [internal function]: HGM_API\Controllers\MainController::auth()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 51
+[27-Mar-2020 10:14:09 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:15:59 Europe/Moscow] PHP Notice:  Undefined variable: user in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:15:59 Europe/Moscow] PHP Notice:  Trying to get property 'id' of non-object in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:15:59 Europe/Moscow] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 52
+[27-Mar-2020 10:16:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:16:28 Europe/Moscow] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php on line 53
+[27-Mar-2020 10:16:28 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:17:38 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 10:17:38 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/Controllers/MainController.php:45) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 43
+[27-Mar-2020 10:17:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:18:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:18:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:18:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:18:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:18:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:19:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:19:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:19:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:20:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:20:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:20:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:22:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:22:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:23:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:23:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:31:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method HGM_API\Controllers\MainController::setUser() in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:31:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method HGM_API\Controllers\MainController::setUser() in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:31:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:33:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:33:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:33:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:33:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:33:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:21
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 21
+[27-Mar-2020 10:33:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:33:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:21
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 21
+[27-Mar-2020 10:33:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:33:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:21
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 21
+[27-Mar-2020 10:33:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:34:35 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HGM_API\Controllers\User::__construct(), 0 passed in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 56 and exactly 1 expected in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php:13
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php(56): HGM_API\Controllers\User->__construct()
+#1 [internal function]: HGM_API\Controllers\UsersController::list()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 13
+[27-Mar-2020 10:34:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:36:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:36:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:36:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'User' not found in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php:20
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(159): Auth::checkToken()
+#1 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#2 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 20
+[27-Mar-2020 10:36:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:39:25 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 0 passed in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 33 and exactly 1 expected in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php:14
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php(33): User->__construct()
+#1 [internal function]: HGM_API\Controllers\UsersController::list()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php on line 14
+[27-Mar-2020 10:39:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:39:42 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 0 passed in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 33 and exactly 1 expected in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php:14
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php(33): User->__construct()
+#1 [internal function]: HGM_API\Controllers\UsersController::list()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php on line 14
+[27-Mar-2020 10:39:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:39:43 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 0 passed in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 33 and exactly 1 expected in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php:14
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php(33): User->__construct()
+#1 [internal function]: HGM_API\Controllers\UsersController::list()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php on line 14
+[27-Mar-2020 10:39:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:41:33 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::__construct(), 0 passed in /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php on line 23 and exactly 1 expected in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php:14
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/Controllers/UsersController.php(23): User->__construct()
+#1 [internal function]: HGM_API\Controllers\UsersController::list()
+#2 /var/home/h40664/public_html/api.hgmdev.ru/Router.php(182): call_user_func_array(Array, Array)
+#3 /var/home/h40664/public_html/api.hgmdev.ru/index.php(20): HGM_API\Router->executeHandler(Array, Array)
+#4 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Entity/User.php on line 14
+[27-Mar-2020 10:41:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:42:14 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:59:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 10:59:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:03:14 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:03:14 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:04:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:04:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:05:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:06:03 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 11:06:03 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:06:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:06:55 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 11:06:55 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:06:55 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:02 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:02 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:02 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:03 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:03 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:11 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:11 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:16 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:16 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:12:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:48 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:48 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:12:50 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:12:50 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:12:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:09 Europe/Moscow] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/home/h40664/public_html/api.hgmdev.ru/Auth.php on line 23
+[27-Mar-2020 11:26:09 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 57
+[27-Mar-2020 11:26:10 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:17 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/home/h40664/public_html/api.hgmdev.ru/DB.php on line 26
+[27-Mar-2020 11:26:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:26:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:27 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/home/h40664/public_html/api.hgmdev.ru/index.php:10) in /var/home/h40664/public_html/api.hgmdev.ru/Response.php on line 47
+[27-Mar-2020 11:26:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(28): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:26:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:37:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:40:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150
+[27-Mar-2020 11:40:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type Closure as array in /var/home/h40664/public_html/api.hgmdev.ru/Router.php:150
+Stack trace:
+#0 /var/home/h40664/public_html/api.hgmdev.ru/index.php(25): HGM_API\Router->executeHandler(Object(Closure))
+#1 {main}
+  thrown in /var/home/h40664/public_html/api.hgmdev.ru/Router.php on line 150

@@ -1,0 +1,30 @@
+<?php
+
+echo '<pre>';
+echo 'get';
+print_r($_GET);
+echo '</pre>';
+echo '<pre>';
+echo 'post';
+print_r($_POST);
+echo '</pre>';
+echo '<pre>';
+echo 'cookie';
+print_r($_COOKIE);
+echo '</pre>';
+echo '<pre>';
+echo 'request';
+print_r($_REQUEST);
+echo '</pre>';
+echo '<pre>';
+echo 'session';
+print_r($_SESSION);
+echo '</pre>';
+echo '<pre>';
+echo 'files';
+print_r($_FILES);
+echo '</pre>';
+echo '<pre>';
+echo 'server';
+print_r($_SERVER);
+echo '</pre>';
