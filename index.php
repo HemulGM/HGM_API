@@ -10,6 +10,7 @@ $router = HGM_API\Router::fromGlobals();
 
 $router->add([
     '/auth' => ['HGM_API\Controllers\MainController@auth', False],
+    '/radios' => ['HGM_API\Controllers\RadiosController@list', False],
     '/users' => 'HGM_API\Controllers\UsersController@list',
     '/second/:any' => 'HGM_API\Controllers\ExampleController@secondAction',
 ]);
@@ -20,7 +21,5 @@ if ($router->isFound()) {
             $router->getParams()
     );
 } else {
-    $router->executeHandler(function () {
-        Response::Error(404, 'Not found');
-    });
+    Response::Error(404, 'Not found');
 }

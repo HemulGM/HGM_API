@@ -19,11 +19,16 @@ class DB {
         if (!isset(static::$con)) {
             static::init();
         }
-        return static::fetch_array(mysqli_query(static::$con, $query));
+        return static::fetch(mysqli_query(static::$con, $query));
     }
 
-    public static function fetch_array($stmt) {
-        return mysqli_fetch_array($stmt);
+    public static function fetch($stmt) {
+        $rows = []; 
+        while($row = $stmt->fetch_array())
+        {
+            $rows[] = $row;
+        }
+        return $rows;
     }
 
 }
