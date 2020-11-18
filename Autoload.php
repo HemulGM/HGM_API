@@ -6,8 +6,10 @@
  require_once __DIR__ . '/Config.php';
  require_once __DIR__ . '/DB.php';
  require_once __DIR__ . '/Controllers/MainController.php';
+ require_once __DIR__ . '/Controllers/MoneyController.php';
  require_once __DIR__ . '/Controllers/UsersController.php';
  require_once __DIR__ . '/Controllers/RadiosController.php';
  require_once __DIR__ . '/Entity/User.php';
  require_once __DIR__ . '/Entity/Radio.php';
+ require_once __DIR__ . '/Entity/MoneyCirculation.php';
  require_once __DIR__ . '/Entity/ReponseItems.php';

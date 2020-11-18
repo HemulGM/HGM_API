@@ -14,13 +14,13 @@ class Auth {
             Response::Error(401, 'Access token need');
         }
 
-        $tokens = DB::query("select * from tokens where token_value = '$token' and token_expired > CURRENT_TIMESTAMP");
-        $user_id = $tokens['token_user_id'];
+        $user_id = DB::getUserId($token);
         $userData = DB::query("select * from users where user_id = '$user_id'");
-        
-        MainController::setUser(new User($userData));
-        
-        if (count($tokens) <= 0) {
+        if ($userData) {
+            MainController::setUser(new User($userData[0]));
+        }
+
+        if (!$user_id) {
             Response::Error(401, 'Access token is invalid');
         }
     }

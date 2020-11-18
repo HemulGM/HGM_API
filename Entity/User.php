@@ -11,28 +11,28 @@ class User {
     public $name;
     public $login;
 
-    public function __construct(array $userData = null) {
-        if ($userData) {
-            self::setUser($userData);
+    public function __construct(array $data = null) {
+        if ($data) {
+            self::setUser($data);
         }
     }
     
-    public function load($user_id): bool {
-        $userData = DB::query("select * from users where user_id = '$user_id'");
+    public function load($id): bool {
+        $data = DB::query("select * from users where user_id = '$id'");
         
-        if (is_array($userData)) {
+        if (is_array($data)) {
             
-            self::setUser($userData);
+            self::setUser($data);
             return True;
         }
         
         return False;
     }
 
-    public function setUser(array $userData) {
-        $this->id = $userData['user_id'];
-        $this->name = $userData['user_name'];
-        $this->login = $userData['user_login'];
+    public function setUser(array $data) {
+        $this->id = $data['user_id'];
+        $this->name = $data['user_name'];
+        $this->login = $data['user_login'];
     }
 
 }

@@ -18,17 +18,31 @@ class DB {
     public static function query($query) {
         if (!isset(static::$con)) {
             static::init();
-        }
+        }    
+        //var_dump($query);
         return static::fetch(mysqli_query(static::$con, $query));
     }
 
+    public static function getUserId($token) {
+        $tokens = DB::query("select * from tokens where token_value = '$token' and token_expired > CURRENT_TIMESTAMP")[0];
+        //var_dump($tokens);
+        return $tokens['token_user_id'];
+    }
+
     public static function fetch($stmt) {
-        $rows = []; 
-        while($row = $stmt->fetch_array())
-        {
-            $rows[] = $row;
+        if ($stmt) {
+            if ($stmt === true) {
+                return true;
+            } else {
+                $rows = [];
+                while ($row = $stmt->fetch_array(MYSQLI_ASSOC)) {
+                    $rows[] = $row;
+                }
+                return $rows;
+            }
+        } else {
+            return [];
         }
-        return $rows;
     }
 
 }

@@ -38,19 +38,20 @@ class MainController {
         $login = $_GET['login'];
         $password = $_GET['password'];
 
-        $userData = DB::query("SELECT * FROM `users` WHERE user_login = '$login' and user_password = '$password'");
+        $userData = DB::query("SELECT user_id, user_name, user_login FROM `users` WHERE user_login = '$login' and user_password = '$password'")[0];
 
         if ($userData) {
 
             static::setUser(new User($userData));
-
             $access_token = hash("sha512", $login . date('DD.MM.YYYY-HH.MM.SS') . random_int(100000, 500000));
             $token_expired = date_format(date_add(new DateTime(), (new DateInterval('P1D'))), 'Y-m-d H:i:s');
             $id = static::$user->id;
-            DB::query("INSERT INTO `tokens` (token_user_id, token_value, token_expired) VALUES ('$id', '$access_token', '$token_expired')");
-
-            $token = new AccessToken($access_token);
-            Response::Ok($token);
+            if (DB::query("INSERT INTO `tokens` (token_user_id, token_value, token_expired) VALUES ('$id', '$access_token', '$token_expired')")) {
+                $token = new AccessToken($access_token);
+                Response::Ok($token);
+            } else {
+                Response::Error(401, 'Invalid login and password (internal error)');
+            }
         } else {
             Response::Error(401, 'Invalid login and password');
         }

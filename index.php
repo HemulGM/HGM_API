@@ -12,6 +12,7 @@ $router->add([
     '/auth' => ['HGM_API\Controllers\MainController@auth', False],
     '/radios' => ['HGM_API\Controllers\RadiosController@list', False],
     '/users' => 'HGM_API\Controllers\UsersController@list',
+    '/money/circulations' => 'HGM_API\Controllers\MoneyController@Circulations',
     '/second/:any' => 'HGM_API\Controllers\ExampleController@secondAction',
 ]);
 
