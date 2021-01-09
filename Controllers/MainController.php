@@ -56,6 +56,13 @@ class MainController {
             Response::Error(401, 'Invalid login and password');
         }
     }
+    
+    public static function dev_query() {
+        var_dump('GET ', $_GET);
+        var_dump('POST ', $_POST);
+        $inputJSON = file_get_contents('php://input');
+        var_dump('BODY ', $inputJSON);
+    }
 
     /**
      * Second Action
